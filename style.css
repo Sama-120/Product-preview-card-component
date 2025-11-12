@@ -58,7 +58,7 @@ main {
 }
 
 .img-box {
-  background-image: url("/images/image-product-mobile.jpg");
+  background-image: url("images/image-product-mobile.jpg");
   background-size: cover;
   background-position: center;
   height: 22.5rem;
